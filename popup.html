@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Emails Extractor</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <div class="container center">
+        <div id="select" class="select center">
+            <a id="email">Email</a>
+            <a id="phone"> Phone </a>
+        </div>
+
+        <div class="mid center">
+            <p style="font-weight: bold;">
+                Found :
+                <span id="counter" class="counter"></span>
+            </p>
+        </div>
+
+        <div class="buttons center">
+            <button id="download-txt-button" class="btn center" disabled>
+                Download (txt)
+            </button>
+            <button id="view-button" class="btn center">
+                View
+            </button>
+            <button id="download-csv-button" class="btn center" disabled>
+                Download (csv)
+            </button>
+        </div>
+
+        <div id="view">
+            <p id="view-location">
+            </p>
+        </div>
+    </div>
+
+    <script type="module" src="background.js"> </script>
+
+</body>
+
+</html>

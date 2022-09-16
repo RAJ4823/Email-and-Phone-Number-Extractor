@@ -2,7 +2,7 @@
 It is Chrome Extension for extracting all Emails and Phone Numbers from web page.
 You can view or download (text, csv) emails and phone numbers.
 
-![icon](./images/icon.jpg)
+<img align="center" width="500" height="500" src="./images/icon-512.png">
 
 ## Screenshots 
 This is how the extension will look: 

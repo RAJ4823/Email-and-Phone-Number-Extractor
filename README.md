@@ -1,5 +1,5 @@
 ## Email & Phone Number Extractor 
-It is Chrome Extension for extracting all Emails and Phone Numbers from web page.
+It is a Chrome Extension for extracting all Emails and Phone Numbers from web page.
 You can view or download (text, csv) emails and phone numbers.
 
 <img align="center" width="500" height="500" src="./images/icon-512.png">
